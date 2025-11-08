@@ -151,9 +151,8 @@ dotenv
 
 🧑‍💻 Author
 
-Aman
-📍 Full Stack Developer | React · Node.js · SQLite
-💼 GitHub Profile
+Amanpreet
+📍 Full Stack Developer
 
 
 ---
