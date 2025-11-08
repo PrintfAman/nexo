@@ -1,0 +1,13 @@
+[
+{"id":"p1","name":"Formal Shirt — White","price":2299,"image":"https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800&h=1000&fit=crop&q=80","tags":"men,formal,classic"},
+{"id":"p2","name":"Silk Scarf","price":1599,"image":"https://images.unsplash.com/photo-1584030373081-49a8769d7be4?w=800&h=1000&fit=crop&q=80","tags":"accessories,women"},
+{"id":"p3","name":"Running Shorts","price":1899,"image":"https://images.unsplash.com/photo-1581467695675-7e3c151f8673?w=800&h=1000&fit=crop&q=80","tags":"sports,unisex"},
+{"id":"p4","name":"Formal Pants — Navy","price":2699,"image":"https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800&h=1000&fit=crop&q=80","tags":"men,formal"},
+{"id":"p3","name":"Regular Unisex Tee — Pine","price":2150,"image":"https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&h=1000&fit=crop&q=80","tags":"unisex,casual"},
+{"id":"p4","name":"Korean Pant — Black","price":2799,"image":"https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=800&h=1000&fit=crop&q=80","tags":"women,trend"},
+{"id":"p5","name":"Pinstripe Pyjama","price":1250,"image":"https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800&h=1000&fit=crop&q=80","tags":"women,cozy,diwali"},
+{"id":"p6","name":"Pencil Stripe Shirt — Beige","price":1150,"image":"https://images.unsplash.com/photo-1598961942613-ba897716405b?w=800&h=1000&fit=crop&q=80","tags":"women,formal"},
+{"id":"p7","name":"Crew Socks (2‑pack)","price":249,"image":"https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?w=800&h=1000&fit=crop&q=80","tags":"accessory"},
+{"id":"p8","name":"Oversize Tee — Terra","price":2499,"image":"https://images.unsplash.com/photo-1564557287817-3785e38ec1f5?w=800&h=1000&fit=crop&q=80","tags":"unisex,streetwear"},
+{"id":"p9","name":"Loafers — Stone","price":3199,"image":"https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=800&h=1000&fit=crop&q=80","tags":"men,footwear"}
+]
