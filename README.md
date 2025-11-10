@@ -1,12 +1,12 @@
 🛒 Mock E-Commerce Cart — Full Stack Coding Assignment
 
-### Submission for: *Vibe Commerce Full Stack Screening*
+ *Vibe Commerce Full Stack Screening*
 *Tech Stack:* React (Frontend) · Node.js + Express (Backend) · SQLite (Database)
 
 ---
 
 ## 🚀 Overview
-This is a *mock full-stack shopping cart application* built as part of the *Vibe Commerce* coding assignment.  
+This is a *mock full-stack shopping cart application* built as part of the *Vibe Commerce* coding assignment. 
 It demonstrates a complete *e-commerce cart workflow* including adding/removing items, viewing totals, and performing a mock checkout — with full frontend-backend integration.
 
 The project follows a *REST API structure* and uses *SQLite* for lightweight local persistence.
